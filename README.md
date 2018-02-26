@@ -2,7 +2,7 @@
 Pruebas y ejemplos basados en el micro ATtiny85
 
 
-# Juego SIMON
+## Juego SIMON
 Sencillo ejemplo para jugar al clásico juego de SIMON. Componentes:
 
 - x1 ATtiny85
