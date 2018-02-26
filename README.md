@@ -13,3 +13,5 @@ Sencillo ejemplo para jugar al clásico juego de SIMON. Componentes:
 - x2 Resistencias de 10Kohm (Pulsadores)
 - x1 Portapilas de 2x1,5v AA
 - x1 Placa protoboard
+
+[Demo](https://youtu.be/WXi6XKHc1TU)
