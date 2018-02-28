@@ -39,7 +39,7 @@ void inicio_juego() {
     digitalWrite(LED1, LOW); digitalWrite(LED2, LOW);
     delay(500);
   }
-  randomSeed(analogRead(0));
+  randomSeed(millis());
   turno_simon();
 }
 
